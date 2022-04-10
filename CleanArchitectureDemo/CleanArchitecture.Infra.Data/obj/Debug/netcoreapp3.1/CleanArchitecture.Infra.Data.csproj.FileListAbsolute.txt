@@ -1,0 +1,16 @@
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.deps.json
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.runtimeconfig.json
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.runtimeconfig.dev.json
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.AssemblyInfo.cs
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csproj.CopyComplete
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.genruntimeconfig.cache

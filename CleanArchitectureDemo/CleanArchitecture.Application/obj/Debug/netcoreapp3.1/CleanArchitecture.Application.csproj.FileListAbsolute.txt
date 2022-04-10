@@ -1,0 +1,13 @@
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.deps.json
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.CopyComplete
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
+C:\Users\egorp\Source\Repos\CleanArchitectureDemo\CleanArchitectureDemo\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb
